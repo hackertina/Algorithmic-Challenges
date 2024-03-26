@@ -1,4 +1,3 @@
-# Definition for singly-linked list.
 from DataStructures.LinkedLists.linked_list_utils import ListNode
 
 class Solution(object):
